@@ -1,2 +1,9 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@layer base {
+	@font-face {
+		font-family: 'CloisterBlack';
+		src: url('/fonts/CloisterBlack.ttf') format('truetype');
+	}
+}
