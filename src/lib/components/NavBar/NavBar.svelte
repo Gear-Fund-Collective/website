@@ -12,7 +12,7 @@
 
 <nav class="mt-4 mb-8 flex justify-center">
 	<ul class="grid list-none grid-cols-3 justify-items-center gap-4 md:grid-cols-5">
-		{#each links as link}
+		{#each links as link (link.name)}
 			<li>
 				<Link href={link.href}>{link.name}</Link>
 			</li>
