@@ -7,7 +7,7 @@
 	let { children } = $props();
 </script>
 
-<div class="container mx-auto max-w-[666px] p-8">
+<div class="container mx-auto max-w-[600px] p-8">
 	<Heading />
 	<NavBar />
 	{@render children()}

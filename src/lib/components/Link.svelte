@@ -14,7 +14,7 @@
 	{target}
 	{rel}
 	{title}
-	class={`${className} underline underline-offset-2 transition-all hover:underline-offset-4`}
+	class={`${className} underline underline-offset-2 transition-all hover:underline-offset-4 active:underline-offset-8`}
 	{id}
 	{style}
 	aria-label={ariaLabel}
