@@ -1,0 +1,1 @@
+import{t as o,a as e}from"../chunks/CtnNm7XG.js";import"../chunks/DjdUKnIl.js";var t=o('<article class="prose"><h2>Gear Library</h2> <p>Watch this space for more information about our gear library and reservation process.</p></article>');function s(r){var a=t();e(r,a)}export{s as component};
