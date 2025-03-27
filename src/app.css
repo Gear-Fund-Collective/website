@@ -6,4 +6,8 @@
 		font-family: 'CloisterBlack';
 		src: url('/fonts/CloisterBlack.ttf') format('truetype');
 	}
+
+	body {
+		background-color: #fdf6ec;
+	}
 }
